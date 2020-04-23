@@ -1,0 +1,3 @@
+# Mensagens Padroes - Jira
+
+## 
