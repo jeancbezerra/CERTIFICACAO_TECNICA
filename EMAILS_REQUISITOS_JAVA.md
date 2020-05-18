@@ -6,7 +6,7 @@
 <br />
 
 Informamos que o chamado ``` <CHAMADO> ``` que foi aberto no dia ``` <DATA_ABERTURA> ```, foi planejado e tem data
-prevista para iniciar o atendimento no dia ``` <DATA_INICIO> ```. Qualquer alteração neste planejamento iremos informa-lo (a) via
+prevista para iniciar o atendimento no dia ``` <DATA_INICIO> ```. Qualquer alteração neste planejamento iremos informá-lo (a) via
 e-mail.<br />
 <br />
 
@@ -22,7 +22,7 @@ e-mail.<br />
 - Acesso à Stream do Projeto (RTC) - matricula: p0638868 - Jean Carlos Bezerra Macena da Silva;<br />
 <br />
 
-<b>Possíveis restrições para execuções dos testes, informe Sim ou Não:</b><br />
+<b>Possíveis restrições para as execuções dos testes, informe Sim ou Não:</b><br />
 - Aplicação restringe acesso para usuários iguais ao mesmo tempo? <br />
 - A massa de dados é consumida a cada execução de teste, necessitando que a Certificação Técnica tenha que solicitar a equipe de aplicação que gere uma nova massa de dados? <br />
 - Existem horários específicos que os testes devem ser realizados? <br />
