@@ -15,6 +15,7 @@ e-mail.
 - Procedimentos de execução;<br />
 - Autenticação da aplicação/serviço (Criar um usuário para a Certificação Técnica);<br />
 - Usuário que aplicação/serviço utiliza no banco de dados;<br />
+- String de conexão para o banco de dados;<br />
 - Nome da JVM e qual nó no cluster (Homologação);<br />
 - Acesso à Stream do Projeto (RTC) - matricula: p0624832 Guilherme Marques Rosario;<br />
 
