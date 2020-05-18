@@ -1,6 +1,6 @@
 # Email do Invite - Triagem
 
-## [Certificacao Tecnica] - ``` <NUMERO_SOLICITACAO> ``` - ``` <NOME_APP> ```
+## [Certificação Técnica] - ``` <NUMERO_SOLICITACAO> ``` - ``` <NOME_APP> ```
 
 Prezados,<br />
 
