@@ -34,8 +34,6 @@ e-mail.
 - A execução de um teste de desempenho gera custo financeiro no ambiente em questão? <br />
 - A versão que deve ser avaliada, encontra-se disponível no ambiente de homologação?<br />
 
-<br />
-
 <b>Dúvida?</b><br />
 - Para gravação dos cenários de teste em vídeo, recomendamos o plugin do Google Chrome [Screencastify](https://chrome.google.com/webstore/detail/screencastify-screen-vide/mmeijimgabbpbgpdklnllpncmdofkcpn); <br />
 - Para gravações de cenários menores (ex: 2 cenários de negócio), utilize prints da tela em sequência inseridos em documento Word ou PowerPoint com demais informações do processo a ser automatizado; <br />
