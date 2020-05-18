@@ -1,5 +1,7 @@
 # Email do Invite - Triagem
 
+## [Certificacao Tecnica] - ``` <NUMERO_SOLICITACAO> ``` - ``` <NOME_APP> ```
+
 Prezados,<br />
 
 Esta reunião servirá como um levantamento de requisitos, premissas adicionais para execução dos testes não funcionais no ambiente de homologação da aplicação/serviço em questão.<br />
