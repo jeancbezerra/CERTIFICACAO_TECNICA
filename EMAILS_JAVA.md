@@ -2,10 +2,10 @@
 
 ## Requisitos - Java
 
-```sh <SOLICITANTE> ``` bom dia,
+``` <SOLICITANTE> ``` bom dia,
 
-Informamos que o chamado ```sh <CHAMADO> ``` que foi aberto no dia ```sh<DATA_ABERTURA>```, foi planejado e tem data
-prevista para iniciar o atendimento no dia ```sh <DATA_INICIO> ```. Qualquer alteração neste planejamento iremos informa-lo (a) via
+Informamos que o chamado ``` <CHAMADO> ``` que foi aberto no dia ``` <DATA_ABERTURA> ```, foi planejado e tem data
+prevista para iniciar o atendimento no dia ``` <DATA_INICIO> ```. Qualquer alteração neste planejamento iremos informa-lo (a) via
 e-mail.
 
 Conforme conversado na reunião ficou pendente:
