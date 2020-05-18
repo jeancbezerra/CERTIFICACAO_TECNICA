@@ -1,6 +1,6 @@
-# Emails
+# Requisitos para solicitacões Java
 
-## Requisitos - Java
+## Requisitos - WEB
 
 ``` <SOLICITANTE> ``` bom dia,
 
