@@ -9,14 +9,23 @@ prevista para iniciar o atendimento no dia ``` <DATA_INICIO> ```. Qualquer alter
 e-mail.
 
 Conforme conversado na reunião ficou pendente:
+
      - Desenho da arquitetura;
+     
      - Cenários de testes / Endpoints dos Serviços;
+     
      - Massa de dados para os cenários;
+     
      - Procedimentos de execução;
+     
      - Autenticação da aplicação/serviço (Criar um usuário para a Certificação Técnica);
+     
      - Usuário que aplicação/serviço utiliza no banco de dados;
+     
      - Nome da JVM e qual nó no cluster (Homologação);
+     
      - Acesso à Stream do Projeto (RTC) - matricula: p0624832 Guilherme Marques Rosario;
+     
 
 Possíveis restrições para execuções dos testes, informe Sim ou Não:
      - Aplicação restringe acesso para usuários iguais ao mesmo tempo?
