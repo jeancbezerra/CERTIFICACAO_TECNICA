@@ -28,5 +28,5 @@ e-mail.
      - A execução de um teste de desempenho pode impactar em outro procedimento noturno programado?<br />
      - A execução de um teste de desempenho gera custo financeiro no ambiente em questão?<br />
 
-Qualquer dúvida estamos à disposição.
+Qualquer dúvida estamos à disposição.<br />
 Obrigado.
