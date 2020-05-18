@@ -27,6 +27,7 @@ e-mail.
 - A aplicação consome serviços externos (como por exemplo Serasa) em homologação? <br />
 - A execução de um teste de desempenho pode impactar em outro procedimento noturno programado? <br />
 - A execução de um teste de desempenho gera custo financeiro no ambiente em questão? <br />
+- A versão que deve ser avaliada, encontra-se disponível no ambiente de homologação?<br />
 
 <br />
 
