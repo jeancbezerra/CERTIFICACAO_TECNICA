@@ -22,6 +22,7 @@ e-mail.
 - Pasta de publicação do projeto (Homologação);<br />
 - Versão do .Net Framework da aplicação/serviço (Homologação);<br />
 - Acesso ao repositório do TFS/Git ou pasta na rede (Fonte do projeto);<br />
+<br />
 
 <b>Possíveis restrições para execuções dos testes, informe Sim ou Não:</b><br />
 - Aplicação restringe acesso para usuários iguais ao mesmo tempo? <br />
@@ -33,12 +34,12 @@ e-mail.
 - A execução de um teste de desempenho pode impactar em outro procedimento noturno programado? <br />
 - A execução de um teste de desempenho gera custo financeiro no ambiente em questão? <br />
 - A versão que deve ser avaliada, encontra-se disponível no ambiente de homologação?<br />
+<br />
 
 <b>Dúvida?</b><br />
 - Para gravação dos cenários de teste em vídeo, recomendamos o plugin do Google Chrome [Screencastify](https://chrome.google.com/webstore/detail/screencastify-screen-vide/mmeijimgabbpbgpdklnllpncmdofkcpn); <br />
 - Para gravações de cenários menores (ex: 2 cenários de negócio), utilize prints da tela em sequência inseridos em documento Word ou PowerPoint com demais informações do processo a ser automatizado; <br />
 - Caso a aplicação/negócio não tenha um SLA de tempo de resposta para suas transações, a Certificação Técnica utilizará o de mercado já predefinido de 3 segundos para aplicações Web e 2 segundos para serviços. <br />
-
 <br />
 
 Qualquer dúvida estamos à disposição.<br />
