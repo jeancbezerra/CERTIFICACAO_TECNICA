@@ -33,5 +33,7 @@ e-mail.
 - Para gravação dos cenários de teste em vídeo, recomendamos o plugin do chrome Screencastify (https://chrome.google.com/webstore/detail/screencastify-screen-vide/mmeijimgabbpbgpdklnllpncmdofkcpn).<br />
 - Para gravações de cenários menores, pode utilizar prints da tela em um documento Word ou PowerPoint com demais informações do processo e do cenário.<br />
 
+<br />
+
 Qualquer dúvida estamos à disposição.<br />
 Obrigado.
