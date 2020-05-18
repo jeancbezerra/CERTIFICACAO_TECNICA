@@ -18,7 +18,7 @@ e-mail.
 - Nome da JVM e qual nó no cluster (Homologação);<br />
 - Acesso à Stream do Projeto (RTC) - matricula: p0624832 Guilherme Marques Rosario;<br />
 
-<b>Possíveis restrições para execuções dos testes, informe Sim ou <span color="red">Não</span>:</b><br />
+<b>Possíveis restrições para execuções dos testes, informe Sim ou <span style="color:red;">Não</span>:</b><br />
 - Aplicação restringe acesso para usuários iguais ao mesmo tempo?<br />
 - A massa de dados é consumida a cada execução de teste, necessitando que a Certificação Técnica tenha que solicitar a equipe de aplicação que gere uma nova massa de dados?<br />
 - Existem horários específicos que os testes devem ser realizados?<br />
