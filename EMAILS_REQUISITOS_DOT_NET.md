@@ -7,7 +7,7 @@
 
 Informamos que o chamado ``` <CHAMADO> ``` que foi aberto no dia ``` <DATA_ABERTURA> ```, foi planejado e tem data
 prevista para iniciar o atendimento no dia ``` <DATA_INICIO> ```. Qualquer alteração neste planejamento iremos informa-lo (a) via
-e-mail.
+e-mail.<br />
 <br />
 
 <b>Para iniciar nossas atividades, necessitamos dos seguintes requisitos:</b><br />
