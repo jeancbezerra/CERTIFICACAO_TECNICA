@@ -8,24 +8,15 @@ Informamos que o chamado ``` <CHAMADO> ``` que foi aberto no dia ``` <DATA_ABERT
 prevista para iniciar o atendimento no dia ``` <DATA_INICIO> ```. Qualquer alteração neste planejamento iremos informa-lo (a) via
 e-mail.
 
-Conforme conversado na reunião ficou pendente:
-
-     - Desenho da arquitetura;
-     
-     - Cenários de testes / Endpoints dos Serviços;
-     
-     - Massa de dados para os cenários;
-     
-     - Procedimentos de execução;
-     
-     - Autenticação da aplicação/serviço (Criar um usuário para a Certificação Técnica);
-     
-     - Usuário que aplicação/serviço utiliza no banco de dados;
-     
-     - Nome da JVM e qual nó no cluster (Homologação);
-     
-     - Acesso à Stream do Projeto (RTC) - matricula: p0624832 Guilherme Marques Rosario;
-     
+Para iniciar nossas atividades, necessitamos dos seguintes requisitos:
+     - Desenho da arquitetura;<br />
+     - Cenários de testes / Endpoints dos Serviços;<br />
+     - Massa de dados para os cenários;<br />
+     - Procedimentos de execução;<br />
+     - Autenticação da aplicação/serviço (Criar um usuário para a Certificação Técnica);<br />
+     - Usuário que aplicação/serviço utiliza no banco de dados;<br />
+     - Nome da JVM e qual nó no cluster (Homologação);<br />
+     - Acesso à Stream do Projeto (RTC) - matricula: p0624832 Guilherme Marques Rosario;<br />
 
 Possíveis restrições para execuções dos testes, informe Sim ou Não:
      - Aplicação restringe acesso para usuários iguais ao mesmo tempo?
