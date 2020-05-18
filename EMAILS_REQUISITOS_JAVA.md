@@ -19,7 +19,7 @@ e-mail.
 - Usuário que aplicação/serviço utiliza no banco de dados;<br />
 - String de conexão para o banco de dados;<br />
 - Nome da JVM e qual nó no cluster (Homologação);<br />
-- Acesso à Stream do Projeto (RTC) - matricula: p0624832 Guilherme Marques Rosario;<br />
+- Acesso à Stream do Projeto (RTC) - matricula: p0638868 - Jean Carlos Bezerra Macena da Silva;<br />
 
 <b>Possíveis restrições para execuções dos testes, informe Sim ou Não:</b><br />
 - Aplicação restringe acesso para usuários iguais ao mesmo tempo? <br />
