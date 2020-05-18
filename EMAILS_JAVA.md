@@ -8,7 +8,7 @@ Informamos que o chamado ``` <CHAMADO> ``` que foi aberto no dia ``` <DATA_ABERT
 prevista para iniciar o atendimento no dia ``` <DATA_INICIO> ```. Qualquer alteração neste planejamento iremos informa-lo (a) via
 e-mail.
 
-<br>Para iniciar nossas atividades, necessitamos dos seguintes requisitos:</br><br />
+<b>Para iniciar nossas atividades, necessitamos dos seguintes requisitos:</b><br />
      - Desenho da arquitetura;<br />
      - Cenários de testes / Endpoints dos Serviços;<br />
      - Massa de dados para os cenários;<br />
