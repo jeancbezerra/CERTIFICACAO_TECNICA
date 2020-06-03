@@ -27,3 +27,10 @@
 - Revisao tecnica
 - Revisao do executivo
 - Envio para o cliente
+
+
+# Artefatos que devemos atualizar e gerar
+- Excel de recomendacoes do projeto;
+- Excel com o Timeline (Graficos de Evolucao);
+- Excel de todas as Streams (Ramon ja fez, precisa so atualziar com a coluna de ultima execucao);
+- Relatorio Quinzenal do Projeto
