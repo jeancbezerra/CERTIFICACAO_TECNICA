@@ -20,7 +20,8 @@
 - Instrumentacao com AppDynamics;
 - Resultado do SonarQube (Print do dashboard com comentario de evolucao);
 - Graficos quantitativos do SonarQube por projeto;
-- Conclusao e proximos passos
+- Recomendacoes se houve (Nao repetir recomendacoes para diferentes projetos, informe que eles devem avaliar o SonarQube para replicar ou nao a recomendacao em outros projeto);
+- Conclusao e proximos passos;
 
 ## 3) Pontual
 - Revisao tecnica
