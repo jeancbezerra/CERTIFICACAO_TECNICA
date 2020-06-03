@@ -1,3 +1,8 @@
+ATENCAO:
+
+Todos os artefatos devem ficar aqui:<br />
+(Link)[https://teams.microsoft.com/_#/files/Geral?threadId=19%3Aa118a178b48842268b76d7019bf8387c%40thread.tacv2&ctx=channel&context=Conquista&rootfolder=%252Fsites%252FSRE-TEAM-PortoSeguro%252FDocumentos%2520Compartilhados%252FGeneral%252FConquista]
+
 # Plano de Execucao do Conquista e Conquista-PRO
 
 ## 1) Realizar semanalmente
