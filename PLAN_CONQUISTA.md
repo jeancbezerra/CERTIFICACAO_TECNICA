@@ -12,7 +12,7 @@ Todos os artefatos devem ficar aqui [Link](https://teams.microsoft.com/_#/files/
 - Verificar as etapas da esteira (Checar o sucesso);
 - Executar todos os pipelines do SonarQube;
 - Documentar a execucao de todos os pipelines (Tabela no excel, o que rodou e o que nao rodou)
-- As entregas serao consolidades em 15 dias (Reunir todas as execucoes, artefatos da esteira em uma pasta consolidade e compartilhada);
+- As entregas serao consolidades em 15 dias (Reunir todas as execucoes, artefatos da esteira em uma pasta consolidada e compartilhada);
 - Enviar tudo para a pasta compartilhada do Teams;
 
 ## 2) Realizar quinzenalmente
