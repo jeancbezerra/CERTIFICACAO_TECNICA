@@ -1,19 +1,19 @@
 ## Processo padrao
 
-- Reuniao de triagem
+- Reunião de triagem
 - Email de requisitos adicionais
 - Validacao dos requisitos com a equipe CT;
 - Validacao dos requisitos com a equipe de Sistemas;
 - Criacao da automacao (Se necessario);
-- Validacao da massa de dados;
-- Validacao do plano de teste com um engenheiro de performance;
-- Validacao dos servidores e do ambiente de execucao do teste;
+- Validacão da massa de dados;
+- Validacão do plano de teste com um engenheiro de performance;
+- Validacão dos servidores e do ambiente de execucao do teste;
 - Smoke Test;
 - Execucao do plano de teste;
-- Coleta de metricas e tabulacao de resultados;
-- Elaboracao do relatorio e laudo sintetico;
-- Revisao de um engenheiro de performance;
-- Revisao do PO;
+- Coleta de métricas e tabulacão de resultados;
+- Elaboracão do relatorio e laudo sintetico;
+- Revisão de um engenheiro de performance;
+- Revisão do PO;
 - Entrega oficializada na ferramenta de SDM;
 
 ## Regras
