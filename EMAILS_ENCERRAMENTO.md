@@ -7,5 +7,6 @@ Conforme acordado, seguem anexos os artefatos da análise realizada pela Certifi
 Por gentileza, não se esqueçam de preencher nossa pesquisa de satisfação para melhoria de nossos serviços: https://pt.surveymonkey.com/r/2KJCMS2.
 
 Qualquer dúvida, estamos à disposição.<br />
+
 Atenciosamente,<br />
 Certificação Técnica
