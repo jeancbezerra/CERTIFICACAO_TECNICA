@@ -21,7 +21,7 @@ e-mail.<br />
 - Usuário que aplicação/serviço utiliza no banco de dados;<br />
 - String de conexão para o banco de dados;<br />
 - Nome da JVM e qual nó no cluster (Homologação);<br />
-- Acesso à Stream do Projeto (RTC) - matricula: p0638868 - Jean Carlos Bezerra Macena da Silva;<br />
+- Acesso à Stream do Projeto (RTC) - matrícula: p0638868 - Jean Carlos Bezerra Macena da Silva;<br />
 <br />
 
 <b>Possíveis restrições para as execuções dos testes, informe Sim ou Não:</b><br />
