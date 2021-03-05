@@ -8,12 +8,12 @@ Para iniciar nossas atividades, necessitamos dos seguintes requisitos iniciais:
 - Procedimentos de execução (Se possível um vídeo curto para expor o fluxo);
 - Autenticação da aplicação/serviço. Criar um usuário para a Certificação Técnica com permissões necessárias para executar os fluxos de negócio;
 - Quais são os requisitos não funcionais necessários:
--- Tempo de Resposta ideal por cenário ?
--- RPS – Requisições por Segundo/Minuto ?
--- TPS – Transações por Segundo/Minuto ?
--- EPS – Erros por Segundo/Minuto ?
--- QPS – Consultas por Segundo/Minuto ?
--- Timeout Threshold – Tempo de resposta máximo?
+- - Tempo de Resposta ideal por cenário ?
+- - RPS – Requisições por Segundo/Minuto ?
+- - TPS – Transações por Segundo/Minuto ?
+- - EPS – Erros por Segundo/Minuto ?
+- - QPS – Consultas por Segundo/Minuto ?
+- - Timeout Threshold – Tempo de resposta máximo?
 
 Possíveis restrições para as execuções dos testes, informe Sim, Não ou um descrição sobre a questão:
 
