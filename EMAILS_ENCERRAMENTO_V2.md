@@ -1,4 +1,4 @@
-# E-mail de encerramento
+# E-mail de encerramento (Nova versão)
 
 Conforme acordado, seguem anexos os artefatos da análise realizada pela Certificação Técnica da `<APLICACAO>`, bem como os resultados gerados pela esteira de performance, em resposta ao chamado `<NUMERO_SOLICITACAO_SDM>`.
 
