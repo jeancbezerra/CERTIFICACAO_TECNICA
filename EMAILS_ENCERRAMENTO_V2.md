@@ -7,7 +7,7 @@ criar planos de ação e melhorar sempre a sua experiência.
 
 [Link da pesquisa](https://forms.office.com/Pages/ResponsePage.aspx?id=f3ThtH_6mUixCTY_cK-bTLTQQu61_t5Nt9u0IleidwpURVZJR1Y5NUVGVVJCTDJVRTlKTk1RNjAwTi4u)
 
-Caso prefira, utilize o QR-Code para facilitar seu acesso ao formulários:
+Caso prefira, utilize o QR-Code para facilitar seu acesso ao formulário:
 
 ![image](https://user-images.githubusercontent.com/34484104/112038017-1eb08a80-8b21-11eb-938a-dfa3b24245ac.png)
 
