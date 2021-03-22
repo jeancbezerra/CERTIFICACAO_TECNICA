@@ -1,6 +1,6 @@
 # E-mail de encerramento
 
-Conforme acordado, seguem anexos os artefatos da análise realizada pela Certificação Técnica da <APLICACAO>, bem como os resultados gerados pela esteira de performance, em resposta ao chamado <NUMERO_SOLICITACAO_SDM>.
+Conforme acordado, seguem anexos os artefatos da análise realizada pela Certificação Técnica da `<APLICACAO>`, bem como os resultados gerados pela esteira de performance, em resposta ao chamado `<NUMERO_SOLICITACAO_SDM>`.
 
 Por gentileza, não se esqueçam de preencher nossa pesquisa de satisfação. Essa pesquisa tem o objetivo de avaliar seu nível de satisfação com relação ao atendimento da equipe de Certificação Técnica. Através dela iremos coletar insumos para
 criar planos de ação e melhorar sempre a sua experiência.
