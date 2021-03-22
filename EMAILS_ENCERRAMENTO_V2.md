@@ -10,7 +10,7 @@ https://forms.office.com/Pages/ResponsePage.aspx?id=f3ThtH_6mUixCTY_cK-bTLTQQu61
 
 ![image](https://user-images.githubusercontent.com/34484104/112038017-1eb08a80-8b21-11eb-938a-dfa3b24245ac.png)
 
-Qualquer dúvida, estamos à disposição.
+Qualquer dúvida, estamos à disposição.<br />
 
-Atenciosamente,
+Atenciosamente,<br />
 Certificação Técnica
