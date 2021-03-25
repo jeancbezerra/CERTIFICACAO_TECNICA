@@ -5,7 +5,7 @@
 - Acompanhar o trabalho da equipe COE e Projetos;
 - Acompanhar os Prospects;
 - Criar um Kanban quando necessario;
-- Avaliar o Jira COE constantemente;
+- Avaliar o Jira (Porto Seguro) constantemente;
 
 ## Projetos:
 - Conquista (Dericky);
