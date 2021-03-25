@@ -26,7 +26,7 @@
 - Status do SAFe;
 
 ## Sexta-Feira
-- Leaders Squad (Levamos o trabalho de quinta para revisar e descutir);
+- Leaders Squad (Levamos o trabalho de quinta para revisar e discutir);
 
 ## Segunda-Feira
 - Checkpoint Semanal (Reuniao com o Wander, 14:00);
