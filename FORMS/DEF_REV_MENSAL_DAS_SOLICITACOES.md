@@ -1,5 +1,7 @@
 # Definicao da revisao mensal das solicitacoes
 
+## Objetivo
+
 Com o objetivo de revisar os entregaveis desenvolvidos no final de
 cada mes, o time de Certificacao Tecnica deverá realizar uma
 reuniao com os membros do CoE para validar o processo
