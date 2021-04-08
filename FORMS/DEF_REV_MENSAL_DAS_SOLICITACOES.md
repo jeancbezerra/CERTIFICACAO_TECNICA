@@ -12,6 +12,21 @@ praticas a serem adotados para cada categoria de atendimento.
 Devendo ser elaborado um documento que realce os pontos fortes e
 pontos fracos de cada atendimento, evidenciando a maturidade.
 
+## Plano de execucao
+
+Responsavel por preencher o formulario
+
+Dia da Semana     | Condutor
+----------------- | -------------
+Sexta-feira       | Project Manager
+
+Integrantes da revisao
+
+Colaboradores     |
+----------------- |
+Project Manager   |
+Especialista      |
+
 Questoes que devemos incorporar nas reunioes:
 
 - Numero da Solicitacao Atendida:
