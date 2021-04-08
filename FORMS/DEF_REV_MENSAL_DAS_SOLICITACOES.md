@@ -22,10 +22,12 @@ Sexta-feira       | Project Manager
 
 Integrantes da revisao
 
-Colaboradores     |
------------------ |
-Project Manager   |
-Especialista      |
+Integrantes       | Opcional          |
+----------------- | ----------------- |
+Project Manager   | Não               |
+Customer Success  | Sim               |
+Especialistas     | Não               |
+Cliente           | Sim               |
 
 Questoes que devemos incorporar nas reunioes:
 
