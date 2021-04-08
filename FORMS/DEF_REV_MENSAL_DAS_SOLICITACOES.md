@@ -1,4 +1,4 @@
-# Definicao do ciclo mensal de revisao dos relatorios
+# Definicao da revisao mensal das solicitacoes
 
 Com o objetivo de revisar os entregaveis desenvolvidos no final de
 cada mes, o time de Certificacao Tecnica deverá realizar uma
