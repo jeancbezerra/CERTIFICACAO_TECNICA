@@ -8,3 +8,10 @@ wget -O - https://raw.githubusercontent.com/jeancbezerra/COEP/master/JMETER_DT/y
 ```
 
 ## 3) Bons testes!
+
+
+## 4) Configure Instance
+
+```sh
+wget -O - https://github.com/jeancbezerra/COEP/blob/master/JMETER_DT/yaman-aws-configure.sh | sudo bash
+```
