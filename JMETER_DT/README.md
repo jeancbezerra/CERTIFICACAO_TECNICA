@@ -4,7 +4,7 @@
 
 ## 2) Execute este script para instalar o JMeter Customizado
 ```sh
-wget -O -s - https://raw.githubusercontent.com/jeancbezerra/COEP/master/JMETER_DT/yaman-aws-install.sh | sudo bash
+wget -O - https://raw.githubusercontent.com/jeancbezerra/COEP/master/JMETER_DT/yaman-aws-install.sh | sudo bash
 ```
 
 ## 3) Bons testes!
