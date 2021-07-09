@@ -18,12 +18,12 @@ cd /opt/jmeter/ && chmod -R 777 * && chown -R ec2-user:ec2-user * && cd /opt/jme
 export JMETER_HOME=/opt/jmeter/apache-jmeter-5.4.1
 echo $JMETER_HOME
 
-export SERVER_IP=`curl http://checkip.amazonaws.com`
+export SERVER_IP=$(curl http://checkip.amazonaws.com)
 echo $SERVER_IP
 
 cd $JMETER_HOME/bin
 
-./jmeter-server -Djava.rmi.server.hostname=$SERVER_IP -Dserver_port=4000 &
+/opt/jmeter/apache-jmeter-5.4.1/bin/jmeter-server -Djava.rmi.server.hostname=$SERVER_IP -Dserver_port=4000 -Djava.net.preferIPv4Stack=true -Djava.net.preferIPv4Addresses=true &
 
 tail -n 1000 -f /opt/jmeter/apache-jmeter-5.4.1/bin/jmeter-server.log
 
