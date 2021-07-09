@@ -5,6 +5,9 @@ yum -y update
 yum -y install wget vim unzip zip net-tools
 yum -y install java-1.8.0-openjdk java-1.8.0-openjdk-devel
 
+TZ=America/Sao_Paulo
+ln -snf /usr/share/zoneinfo/$TZ /etc/localtime && echo $TZ > /etc/timezone
+
 mkdir -p /opt/jmeter/ && cd /opt/jmeter/ && chmod -R 777 * && chown -R ec2-user:ec2-user * 
 wget https://trendsoftware.com.br/downloads/apache/jmeter/apache-jmeter-5.4.1-server-config.zip
 unzip apache-jmeter-5.4.1-server-config.zip
